@@ -8,7 +8,6 @@ public class Solution {
 
         result[0] = findFirstPosition(nums, target);
         result[1] = findLastPosition(nums, target);
-
         return result;
     }
 
